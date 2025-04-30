@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-color: lightgray;
+}
+
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  margin-top: 2em;
+}
